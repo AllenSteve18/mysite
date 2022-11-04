@@ -45,3 +45,5 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings'
 
 ###### Step 8: Refresh the site by clicking on the green button at the top of the page. Refer to the image below.
 ![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)
+
+#### Visit the url of your deployment with the extension /*admin/* to view the application. Login with the credentials *admin* and *password* as username and password respectively.
