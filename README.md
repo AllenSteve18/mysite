@@ -31,7 +31,7 @@ python manage.py collectstatic
 ###### Step 7a: Change the WSGI configuration file by clicking on the link. Clicking the link will lead you to an editor. Refer to the image to locate the required file.
 ![Screenshot 2022-11-04 200245](https://user-images.githubusercontent.com/76894046/200001260-04d166bd-2255-4906-a846-fb85446ec96f.png)
 
-###### Step 7b: Just remove everything from the file and paste the below given code. Make sure you change *<your_username>* to your respective username.
+###### Step 7b: Just remove everything from the file and paste the below given code. Make sure you change *<your_username>* to your respective username and save the file by clicking *Save* at the top right.
 ```
 import os
 import sys
@@ -42,3 +42,6 @@ if path not in sys.path:
 
 os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings'
 ```
+
+###### Step 8: Refresh the site by clicking on the green button at the top of the page. Refer to the image below.
+[Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)
