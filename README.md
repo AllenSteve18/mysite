@@ -72,5 +72,5 @@ application = get_wsgi_application()
 ##### Step 5: Paste your url in the auto-grader and evaluate.
 <kbd>![Screenshot 2022-11-04 205339](https://user-images.githubusercontent.com/76894046/200055686-7decc57f-2c96-4ace-82de-b808180d35ed.png)</kbd>
 
-<div align="center"><kbd>![j7z9v7x3qw141](https://user-images.githubusercontent.com/76894046/200056910-b5c2f2f1-fdf2-4bd8-ae4f-f72df35a0348.jpg)</kbd></div>
+<p align="center"><kbd>![j7z9v7x3qw141](https://user-images.githubusercontent.com/76894046/200056910-b5c2f2f1-fdf2-4bd8-ae4f-f72df35a0348.jpg)</kbd></p>
 
