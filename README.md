@@ -5,3 +5,8 @@
 ```
 git clone https://github.com/saumyasarkar11/mysite.git
 ```
+
+###### Step 2: Create virtual environment and make sure you put proper python version(We will be using 3.10 here).
+```
+mkvirtualenv --python=/usr/bin/python3.10  mysite-env
+```
