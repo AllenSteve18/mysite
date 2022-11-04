@@ -44,4 +44,4 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings'
 ```
 
 ###### Step 8: Refresh the site by clicking on the green button at the top of the page. Refer to the image below.
-[Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)
+![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)
