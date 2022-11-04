@@ -59,11 +59,14 @@ application = get_wsgi_application()
 
 ##### Step 3: Create a new user with the username and password provided by the auto-grader. Refer to the image below.(Note: The password provided for every coursera student is different)
 <kbd>![Screenshot 2022-11-04 203759](https://user-images.githubusercontent.com/76894046/200051687-94dbd2fb-e8b9-4545-ba3e-19be919601fc.png)</kbd>
+
 <kbd>![Screenshot 2022-11-04 204000](https://user-images.githubusercontent.com/76894046/200053304-4df0457c-830d-4377-a0bc-695acca0b929.png)</kbd>
+
 <kbd>![Screenshot 2022-11-04 204335](https://user-images.githubusercontent.com/76894046/200053012-bb6f3401-8eca-422d-a235-d22ebbab747b.png)</kbd>
 
 ##### Step 4: Add priviledges to the newly created user by clicking "*Choose All*" and add "*Staff Status*" to the user. Refer to the image below.
 <kbd>![Screenshot 2022-11-04 204605](https://user-images.githubusercontent.com/76894046/200054109-89cf2634-94ef-431e-81dc-27441a38d914.png)</kbd>
+
 <kbd>![Screenshot 2022-11-04 204752](https://user-images.githubusercontent.com/76894046/200054215-02e45f04-2afa-46cf-82c0-dfda2a746152.png)</kbd>
 
 ##### Step 5: Paste your url in the auto-grader and evaluate.
