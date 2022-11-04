@@ -29,7 +29,7 @@ python manage.py collectstatic
 <kbd>![Screenshot 2022-11-04 195107](https://user-images.githubusercontent.com/76894046/199999856-3ad8c6c3-6cfe-4e03-ab4b-5e1d4b004c72.png)</kbd>
 
 ##### Step 7a: Change the WSGI configuration file by clicking on the link. Clicking the link will lead you to an editor. Refer to the image to locate the required file.
-![Screenshot 2022-11-04 200245](https://user-images.githubusercontent.com/76894046/200001260-04d166bd-2255-4906-a846-fb85446ec96f.png)
+<kbd>![Screenshot 2022-11-04 200245](https://user-images.githubusercontent.com/76894046/200001260-04d166bd-2255-4906-a846-fb85446ec96f.png)</kbd>
 
 ##### Step 7b: Just remove everything from the file and paste the below given code. Make sure you change *<your_username>* to your respective username and save the file by clicking *Save* at the top right.
 ```
@@ -44,6 +44,6 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings'
 ```
 
 ##### Step 8: Refresh the site by clicking on the green button at the top of the page. Refer to the image below.
-![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)
+<kbd>![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)</kbd>
 
 #### Visit the url of your deployment with the extension */admin/* to view the application. Login with the credentials "*admin*" and "*password*" as username and password respectively.
