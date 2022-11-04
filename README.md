@@ -52,7 +52,7 @@ application = get_wsgi_application()
 
 #### *Part 2 - Configuring our application for the Auto-Grader*
 
-#### Step 1: Visit the url of your deployment with the extension */admin/* to view the application. Login with the credentials "*admin*" and "*password*" as username and password respectively.
+#### Step 1: Visit the url of your deployment with the extension */admin/* (<your_username>.pythonanywhere.com/admin/) to view the application. Login with the credentials "*admin*" and "*password*" as username and password respectively.
 
 #### Step 2: Click on *users* and after logging in and delete the existing user with username "*dj4e*".
 <kbd>![Screenshot 2022-11-04 203424 (1)](https://user-images.githubusercontent.com/76894046/200050365-6a1129d3-9bf9-46e2-a7d7-323208c6f3ba.png)</kbd>
@@ -63,9 +63,8 @@ application = get_wsgi_application()
 <kbd>![Screenshot 2022-11-04 204335](https://user-images.githubusercontent.com/76894046/200053012-bb6f3401-8eca-422d-a235-d22ebbab747b.png)</kbd>
 
 ##### Step 4: Add priviledges to the newly created user by clicking "*Choose All*" and add "*Staff Status*" to the user. Refer to the image below.
-<kdb>![Screenshot 2022-11-04 204605](https://user-images.githubusercontent.com/76894046/200054109-89cf2634-94ef-431e-81dc-27441a38d914.png)</kdb>
-<kdb>![Screenshot 2022-11-04 204752](https://user-images.githubusercontent.com/76894046/200054215-02e45f04-2afa-46cf-82c0-dfda2a746152.png)</kdb>
+<kbd>![Screenshot 2022-11-04 204605](https://user-images.githubusercontent.com/76894046/200054109-89cf2634-94ef-431e-81dc-27441a38d914.png)</kbd>
+<kbd>![Screenshot 2022-11-04 204752](https://user-images.githubusercontent.com/76894046/200054215-02e45f04-2afa-46cf-82c0-dfda2a746152.png)</kbd>
 
 ##### Step 5: Paste your url in the auto-grader and evaluate.
-<kdb>![Screenshot 2022-11-04 205339](https://user-images.githubusercontent.com/76894046/200055686-7decc57f-2c96-4ace-82de-b808180d35ed.png)</kdb>
-
+<kbd>![Screenshot 2022-11-04 205339](https://user-images.githubusercontent.com/76894046/200055686-7decc57f-2c96-4ace-82de-b808180d35ed.png)</kbd>
