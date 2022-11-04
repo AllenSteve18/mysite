@@ -26,7 +26,7 @@ python manage.py collectstatic
 ##### Step 5: Go to *Web* tab on the top right and click on it. You will see *Create a Web Application* button, click on it. Select python version 3.10, click *Next* click on *Manual Configuration*(make sure you do not click on the “Django” option).
 
 ##### Step 6: Change source code and virtualenv location to that of your respective project by changing the username only. Refer to the image below.
-![Screenshot 2022-11-04 195107](https://user-images.githubusercontent.com/76894046/199999856-3ad8c6c3-6cfe-4e03-ab4b-5e1d4b004c72.png)
+<kbd>![Screenshot 2022-11-04 195107](https://user-images.githubusercontent.com/76894046/199999856-3ad8c6c3-6cfe-4e03-ab4b-5e1d4b004c72.png)</kbd>
 
 ##### Step 7a: Change the WSGI configuration file by clicking on the link. Clicking the link will lead you to an editor. Refer to the image to locate the required file.
 ![Screenshot 2022-11-04 200245](https://user-images.githubusercontent.com/76894046/200001260-04d166bd-2255-4906-a846-fb85446ec96f.png)
