@@ -48,6 +48,10 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings'
 ##### Step 8: Refresh the site by clicking on the green button at the top of the page. Refer to the image below.
 <kbd>![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)</kbd>
 
-#### Visit the url of your deployment with the extension */admin/* to view the application. Login with the credentials "*admin*" and "*password*" as username and password respectively.
+#### *Part 2 - Configuring our application for the Auto-Grader*
 
+#### Step 1: Visit the url of your deployment with the extension */admin/* to view the application. Login with the credentials "*admin*" and "*password*" as username and password respectively.
+
+#### Step 2: Click on *users* and after logging in and delete the existing user with username "*dj4e*".
+<kbd>![Screenshot 2022-11-04 203424 (1)](https://user-images.githubusercontent.com/76894046/200050365-6a1129d3-9bf9-46e2-a7d7-323208c6f3ba.png)</kbd>
 
