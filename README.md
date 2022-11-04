@@ -28,8 +28,10 @@ python manage.py collectstatic
 ###### Step 6: Change source code and virtualenv location to that of your respective project by changing the username only. Refer to the image below.
 ![Screenshot 2022-11-04 195107](https://user-images.githubusercontent.com/76894046/199999856-3ad8c6c3-6cfe-4e03-ab4b-5e1d4b004c72.png)
 
-###### Step 7: Change the WSGI configuration file by clicking on the link. Clicking the will lead you to an editor. Just remove everything and paste the below given code. Make sure you change *<your_username>* to your respective username. Refer to the image to locate the required file.
+###### Step 7a: Change the WSGI configuration file by clicking on the link. Clicking the link will lead you to an editor. Refer to the image to locate the required file.
 ![Screenshot 2022-11-04 200245](https://user-images.githubusercontent.com/76894046/200001260-04d166bd-2255-4906-a846-fb85446ec96f.png)
+
+###### Step 7b: Just remove everything from the file and paste the below given code. Make sure you change *<your_username>* to your respective username.
 ```
 import os
 import sys
