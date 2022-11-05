@@ -48,7 +48,7 @@ application = get_wsgi_application()
 ```
 
 ##### Step 8: Add path for static files. Please change your account username. Refer to the image below.
-<kbd>![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)</kbd>
+<kbd>![Screenshot 2022-11-05 003606](https://user-images.githubusercontent.com/76894046/200100588-99c654ec-6c50-4034-8ee2-4680e0d22799.png)</kbd>
 
 ##### Step 9: Refresh the site by clicking on the green button at the top of the page. Refer to the image below.
 <kbd>![Screenshot 2022-11-04 201043](https://user-images.githubusercontent.com/76894046/200002630-10b80d69-be26-4dd7-828f-334f87193178.png)</kbd>
