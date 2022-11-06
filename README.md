@@ -19,7 +19,7 @@ cd mysite
 pip install -r requirements.txt
 ```
 
-##### Step 4: Migrate database for our application followed by generationg a single static file for CSS, JS, images, etc.
+##### Step 4: Migrate database for our application followed by generation of a single static file for CSS, JS, images, etc.
 ```
 python manage.py migrate
 python manage.py collectstatic
