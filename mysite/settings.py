@@ -11,6 +11,8 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 
 """
 import mimetypes
+import os
+
 mimetypes.add_type("text/css", ".css", True)
 
 from pathlib import Path
@@ -26,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-pr=6!rjr^z%ac3705h_x2y*8#tr0dmjbv(+=*w2zak$$e*iw)z'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
