@@ -5,7 +5,7 @@
 
 ##### Step 1: Clone the repository by running the command below in the bash console of your pythonanywhere beginner account.
 ```
-git clone https://github.com/saumyasarkar11/mysite.git
+git clone https://https://github.com/AllenSteve18/mysite.git
 ```
 
 ##### Step 2: Create virtual environment and make sure you put proper python version(We will be using 3.10 here).
